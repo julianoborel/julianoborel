@@ -2,7 +2,7 @@
 
 Bem vindo ao meu perfil no Github
 
-- 🔭 Estou procurando empregos na área de desenvolvimento .Net, Java, React.
+- 🔭 Estou procurando empregos na área de desenvolvimento Java.
 - 📫 Email: julianoborel@yahoo.com.br
 
 You can find more about me on the following links:
