@@ -3,6 +3,7 @@
 Bem vindo ao meu perfil no Github
 
 Desenvolvedor Java com pouco mais de 3 anos de experiência. Técnico de informática, formado em engenharia de produção e no atual momento graduando em Análise e Desenvolvimento de Sistemas no Instituto INFNET. Atualmente direcionando meus estudos em Java, Spring e Angular.
+
 📫 julianoborel@yahoo.com.br
 
 [Linkedin](www.linkedin.com/in/julianoborel)
