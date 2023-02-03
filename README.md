@@ -7,3 +7,6 @@ Bem vindo ao meu perfil no Github
 
 You can find more about me on the following links:
 - [Linkedin](www.linkedin.com/in/julianoborel)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=julianoborel)](https://github.com/julianoborel/github-readme-stats)
+
