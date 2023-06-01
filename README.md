@@ -10,3 +10,6 @@ Desenvolvedor Java com pouco mais de 4 anos de experiência. Técnico de inform�
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=julianoborel&show_icons=true&count_private=true&hide_border=true)
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=julianoborel&hide_border=true&layout=compact)
+
+
+![](https://komarev.com/ghpvc/?username=julianoborel)
