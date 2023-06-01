@@ -9,6 +9,6 @@ Desenvolvedor Java com pouco mais de 4 anos de experiência. Técnico de inform�
 [Linkedin](www.linkedin.com/in/julianoborel)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=julianoborel)](https://github.com/julianoborel/github-readme-stats)
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=julianoborel&hide_border=true&layout=compact)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=julianoborel&hide_border=true&layout=compact)
 
 
