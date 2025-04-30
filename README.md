@@ -2,7 +2,9 @@
 
 Bem vindo ao meu perfil no Github
 
-Desenvolvedor PHP e Java com pouco mais de 4 anos de experiência. Técnico de informática, formado em Engenharia de Produção e no atual momento graduando em Análise e Desenvolvimento de Sistemas no Instituto INFNET.
+Meu nome é Juliano Borel, entusiasta de tecnologia e soluções inteligentes.
+
+Sou desenvolvedor backend, com experiência no desenvolvimento e manutenção de sistemas web e APIs REST em ambientes baseados em microsserviços.
 
 📫 julianoborel@yahoo.com.br
 
